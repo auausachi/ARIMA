@@ -1,0 +1,74 @@
+/Users/skt2516/.pyenv/versions/anaconda3-4.3.1/lib/python3.6/site-packages/statsmodels/base/model.py:496: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  "Check mle_retvals", ConvergenceWarning)
+/Users/skt2516/.pyenv/versions/anaconda3-4.3.1/lib/python3.6/site-packages/statsmodels/base/model.py:496: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  "Check mle_retvals", ConvergenceWarning)
+/Users/skt2516/.pyenv/versions/anaconda3-4.3.1/lib/python3.6/site-packages/statsmodels/base/model.py:496: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  "Check mle_retvals", ConvergenceWarning)
+/Users/skt2516/.pyenv/versions/anaconda3-4.3.1/lib/python3.6/site-packages/statsmodels/base/model.py:496: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  "Check mle_retvals", ConvergenceWarning)
+                             model          aic
+0    order=(1,0,0), season=(0,0,0)      40071.1
+1    order=(1,0,0), season=(0,0,1)      39706.9
+2    order=(1,0,0), season=(0,0,2)      39370.2
+3    order=(1,0,0), season=(0,0,3)      39044.2
+4    order=(1,0,0), season=(0,1,0)      39783.4
+5    order=(1,0,0), season=(0,1,1)      39262.4
+6    order=(1,0,0), season=(0,1,2)      38914.5
+7    order=(1,0,0), season=(0,1,3)      38584.6
+8    order=(1,0,0), season=(0,2,0)      40400.9
+9    order=(1,0,0), season=(0,2,1)      39587.4
+10   order=(1,0,0), season=(0,2,2)      39178.3
+11   order=(1,0,0), season=(0,2,3)      38851.1
+12   order=(1,0,0), season=(1,0,0)      39683.2
+13   order=(1,0,0), season=(1,0,1)      39611.5
+14   order=(1,0,0), season=(1,0,2)      39239.2
+15   order=(1,0,0), season=(1,0,3)      38894.4
+16   order=(1,0,0), season=(1,1,0)      39295.1
+17   order=(1,0,0), season=(1,1,1)      39257.3
+18   order=(1,0,0), season=(1,1,2)      38916.3
+19   order=(1,0,0), season=(1,1,3)      38586.2
+20   order=(1,0,0), season=(1,2,0)      39713.4
+21   order=(1,0,0), season=(1,2,1)      39520.9
+22   order=(1,0,0), season=(1,2,2)      39177.8
+23   order=(1,0,0), season=(1,2,3)        38847
+24   order=(1,0,0), season=(2,0,0)      39288.6
+25   order=(1,0,0), season=(2,0,1)      39236.7
+26   order=(1,0,0), season=(2,0,2)      39231.6
+27   order=(1,0,0), season=(2,0,3)      38894.6
+28   order=(1,0,0), season=(2,1,0)      38932.2
+29   order=(1,0,0), season=(2,1,1)      38913.5
+..                             ...          ...
+162  order=(1,1,1), season=(1,1,2)        38864
+163  order=(1,1,1), season=(1,1,3)      38533.3
+164  order=(1,1,1), season=(1,2,0)      39757.3
+165  order=(1,1,1), season=(1,2,1)      39537.8
+166  order=(1,1,1), season=(1,2,2)  5.36578e+13
+167  order=(1,1,1), season=(1,2,3)      38856.7
+168  order=(1,1,1), season=(2,0,0)      39086.3
+169  order=(1,1,1), season=(2,0,1)      39084.2
+170  order=(1,1,1), season=(2,0,2)        39034
+171  order=(1,1,1), season=(2,0,3)      38721.1
+172  order=(1,1,1), season=(2,1,0)      38947.6
+173  order=(1,1,1), season=(2,1,1)      38911.3
+174  order=(1,1,1), season=(2,1,2)      38865.1
+175  order=(1,1,1), season=(2,1,3)      38531.1
+176  order=(1,1,1), season=(2,2,0)      39347.1
+177  order=(1,1,1), season=(2,2,1)      39237.2
+178  order=(1,1,1), season=(2,2,2)      39181.6
+179  order=(1,1,1), season=(2,2,3)      38858.1
+180  order=(1,1,1), season=(3,0,0)      38765.7
+181  order=(1,1,1), season=(3,0,1)        38762
+182  order=(1,1,1), season=(3,0,2)      38760.8
+183  order=(1,1,1), season=(3,0,3)      38711.7
+184  order=(1,1,1), season=(3,1,0)      38590.9
+185  order=(1,1,1), season=(3,1,1)      38581.3
+186  order=(1,1,1), season=(3,1,2)      38574.9
+187  order=(1,1,1), season=(3,1,3)      38524.9
+188  order=(1,1,1), season=(3,2,0)        38949
+189  order=(1,1,1), season=(3,2,1)      38897.6
+190  order=(1,1,1), season=(3,2,2)      38907.3
+191  order=(1,1,1), season=(3,2,3)      38852.7
+
+[192 rows x 2 columns]
+                            model      aic
+91  order=(1,0,1), season=(3,1,3)  38506.4
